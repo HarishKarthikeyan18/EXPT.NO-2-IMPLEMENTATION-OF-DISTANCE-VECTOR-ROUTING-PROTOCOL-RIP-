@@ -1,16 +1,22 @@
+# DATE: 29/1/26
 # EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
 # AIM:
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
+^ Personal Computer
+^ Cisco Packey Tracer
 
 
 
 # IP ASSIGNMENT:
+<img width="475" height="219" alt="566114388-1289d2b4-e280-4d9d-a960-72e30330a807" src="https://github.com/user-attachments/assets/da8c00bb-2d86-4652-a755-97d960693104" />
 
 
 
 # NETWORK DIAGRAM:
+:<img width="914" height="362" alt="566114724-0c1b5f16-937e-4384-ac97-67d00121a5bf" src="https://github.com/user-attachments/assets/45b35312-feba-4e72-9865-85d5e015f8b6" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -78,7 +84,9 @@ You can also check connectivity between the PCs on different networks to ensure 
 4.	If everything is configured correctly, you should receive replies from PC3.
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
-# OUTPUT
+# OUTPUT:
+<img width="682" height="492" alt="566115373-ce0f130d-db9c-4853-876e-7d2e858fc4f5" src="https://github.com/user-attachments/assets/3effdfb5-b8fd-4db6-8401-f2623e9fa1e4" />
+<img width="2702" height="1236" alt="566114866-861c3177-f36e-466b-b610-667fdf2a4e38" src="https://github.com/user-attachments/assets/cb116d83-372c-4508-84a5-7d3c9d242810" />
 
 
 
